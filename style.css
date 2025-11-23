@@ -1,9 +1,8 @@
 * {
 
   /* tokyo-night */
-  background-color: #1a1b26;
-  color: #cdd7f4;
-  color: #8a8a8d;
+  /* background-color: #1a1b26; */
+  /* color: #cdd7f4; */
 
   /* monochrome */
   /* background-color: #282828; */
@@ -12,6 +11,11 @@
   /* Matte-Black */
   /* background-color: #1e1e1e; */
   /* color: #8a8a8d; */
+
+  /* Hackerman */
+  background-color: #0b0c16;
+  /* color: #ddf7ff; */
+  color: #8a8a8d;
 
   border: none;
   border-radius: 0;
