@@ -103,7 +103,7 @@
     "format-disabled": "󰂲",
     "format-connected": "",
     "tooltip-format": "Devices connected: {num_connections}",
-    "on-click": "blueberry"
+    "on-click": "~/.local/bin/bluetui-launch.sh"
   },
   "pulseaudio": {
     "format": "{icon}",
